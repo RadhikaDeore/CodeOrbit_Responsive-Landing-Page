@@ -26,6 +26,7 @@ Project Structure
 - "style.css" – Contains the styling and responsive layout.
 
 Objective
+
 The objective of this project is to learn how to create a responsive and user-friendly landing page using HTML and CSS.
 
 Author
